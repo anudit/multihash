@@ -1,9 +1,10 @@
+
 # Multihash
-Store Multihash functions on Blockchain
+### Store Multihash functions on the Ethereum Blockchain
 
-Currently deployed at : 0xae1de97ad41250331b0b186cae51af3692cc31ef on Ropsten Testnet
+Currently deployed at : `0xae1de97ad41250331b0b186cae51af3692cc31ef` on Ropsten Testnet
 
-ABI :
+**ABI** :
 
 ```
 [
