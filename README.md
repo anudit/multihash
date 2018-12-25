@@ -1,4 +1,4 @@
 # multihash
 Store Multihash functions on Blockchain
 
-Currently deployed at : 0x51b9e97ae9758a45b08c51c1bd4eeece3a64489a on ropsten
+Currently deployed at : 0x859c5fd8be133510fc5c7c15563fb0a3ccdbb821 on ropsten
